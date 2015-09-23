@@ -8,3 +8,4 @@ to ensure that the build system works.  The content is actually
 located in libs/android-support-v7-appcompat.jar.
 The accompanying resources must also be included in the application.
 
+集成了v4  v7 appcompat的Library工程 用户各种第三方引入 
